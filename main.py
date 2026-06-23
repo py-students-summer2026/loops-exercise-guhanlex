@@ -39,7 +39,7 @@ def do_difficult():
     # difficult.five(10)
     # difficult.six(8)
     # difficult.seven()
-    # difficult.eight(24)
+    difficult.eight("Hello how are you")
     # difficult.nine()
     # difficult.ten()
     pass # do nothing
